@@ -20,9 +20,6 @@ Multiple comments were placed to clarify the changes made.
 
 
 
-
-
-
 I had several difficulties with this assignment. The most common difficulty I found I had was 
 typos. I have found that they can "break" any website and require "debugging". My tutor suggested 
 that I check my code after each change/addition in order to facilitate my efficiency and prevent 
